@@ -1,0 +1,21 @@
+{
+  "name": "sample-upgradable-contract",
+  "version": "1.0.0",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "left-pad": "^1.3.0",
+    "truffle": "^5.0.10",
+    "web3": "^1.0.0-beta.51"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
